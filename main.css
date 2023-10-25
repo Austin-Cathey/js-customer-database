@@ -3,8 +3,46 @@
     margin: 0;
 
 }
-/* .customer-container {
+.customer-container {
 display: flex;
 flex-wrap: wrap;
+justify-content: center;
+align-content: center;
 
-} */
+}
+
+.customerCard {
+margin: 2rem;
+}
+
+.customerPhoto {
+border-radius: 35% 60% 35% 60%;
+}
+
+.customer-name {
+
+}
+
+.email {
+
+}
+
+.customer-info {
+
+}
+
+.address-line1 {
+
+}
+
+.address-line2 {
+
+}
+
+.dob{
+
+}
+
+.customerSince {
+
+}
